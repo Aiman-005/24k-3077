@@ -1,0 +1,6 @@
+Start
+Input a,b,c,S
+Set S=0
+Set S= -a-b-c
+Display "Sum of three numbers is S"
+End
