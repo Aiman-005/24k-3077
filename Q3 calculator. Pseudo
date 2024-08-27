@@ -1,0 +1,7 @@
+Start
+Input three variables x,y,z
+IF z== + Then
+  Display " x+y "
+Else
+  Display " x-y "
+End
