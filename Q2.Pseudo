@@ -1,0 +1,6 @@
+# Add numbers without using +
+Start
+Input a,b,c,Sum
+Set Sum= (a-b-c) * -1
+Display "Sum of three numbers is Sum"
+End
