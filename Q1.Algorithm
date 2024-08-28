@@ -1,13 +1,13 @@
 Start
-Ask user to input Nth number
+Ask user to input N number
 Ask user to input n number
-Set Ans to (n % Nth)
+Set Ans to (n % N)
 If Ans is 0 then
-  Set x to " Nth % 2"
+  Set x to " N % 2"
       If x is 0 then
-         display " Nth is even number "
+         display " N is even number "
      Else
-        display " nth is an odd number "
+        display " n is an odd number "
 Else
-  display " Nth is not the divisor of n"
+  display " N is not the divisor of n"
 End
