@@ -1,3 +1,4 @@
+# Find maximum number
 Start
 SET num1,num2,num3
 IF num1 > num2 And num1> num3 THEN
