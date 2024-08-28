@@ -1,9 +1,14 @@
 Start
-ask user to enter a,b,c
-Set c as mathematical operator
-If c == + then perform addition for a and b
-Else if c == - then perform subtraction for a and b
-Else if c == * then perform multiplication for a and b
-Else if c == / then perform division for a and b
-Else if c == % then perform division for a and b and show remainder as result
+Ask user to enter number a,b
+Ask use to enter  operator
+If operator is " + " then
+   display " a+b "
+Else if operator is " - " then
+      display " a-b "
+Else if operator is " * " then
+      display " a*b "
+Else if operator is " / " then
+     display " a/b "
+Else if operator is " % " then
+    display " a%b "
 End
