@@ -1,0 +1,11 @@
+# Create a small calculator which only does ‘+’ or ‘-‘Operations. (Hint: Take three variable inputs with
+one being used for the operator)
+
+Start
+Input numbers x,y
+Input operator
+IF operator == + Then
+  Display " x+y "
+Else
+  Display " x-y "
+End
